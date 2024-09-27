@@ -12,5 +12,6 @@ This project implements a basic text input field using the Pygame library. It al
   
 - Text rendering: Text updates as the user types or deletes characters.
 
-![text_input_live_demo](https://github.com/user-attachments/assets/239a279e-9b95-457b-bb63-f0908066ccea)
+![text_input_live_demo_large](https://github.com/user-attachments/assets/78ea1284-fcd6-4552-a94c-f29683c45084)
+
 
