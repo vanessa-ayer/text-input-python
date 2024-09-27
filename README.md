@@ -11,3 +11,6 @@ This project implements a basic text input field using the Pygame library. It al
 - Customizable font and text color: Users can modify font style, size, and color.
   
 - Text rendering: Text updates as the user types or deletes characters.
+
+![text_input_live_demo](https://github.com/user-attachments/assets/239a279e-9b95-457b-bb63-f0908066ccea)
+
